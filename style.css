@@ -78,3 +78,26 @@
     font-style: italic;
     color: #7f8c8d;
   }
+  #habilidades {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 15px 25px;
+  margin-bottom: 20px;
+}
+
+#habilidades h2 {
+  border-bottom: 2px solid #2980b9;
+  padding-bottom: 5px;
+  color: #2980b9;
+}
+
+#habilidades ul {
+  padding-left: 20px;
+  list-style-type: square;
+}
+
+#habilidades li {
+  margin-bottom: 8px;
+  color: #34495e;
+}
